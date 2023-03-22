@@ -1,4 +1,4 @@
 # Churn-Classification
 The aim of this repository is to compare many different classification algorithms.
 
-I found dataset on kaggle, but original dataset was uploaded on: https://zenodo.org/record/4322342#.ZBtsb3bMK5d
+I found dataset on kaggle, but originaly dataset was uploaded on: https://zenodo.org/record/4322342#.ZBtsb3bMK5d
