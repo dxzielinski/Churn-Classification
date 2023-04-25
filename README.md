@@ -1,6 +1,7 @@
-# Churn-Classification
-The aim of this repository is to compare many different classification algorithms.
-
-I am still working on it - now it's at the initial stage.
-
-I found dataset on kaggle, but originally dataset was uploaded on: https://zenodo.org/record/4322342#.ZBtsb3bMK5d
+# Churn-Classification\
+---
+\
+In this project I compared different classification algorithms (Pipeline-comparisons file) with different type of data preprocessing methods and taking into account the time of all those processes. Selected model is then evaluating, optimizing and data dependences are checked in a Explanatory_Analysis-interpretation file.
+\
+---
+I found dataset on kaggle, but originally dataset was uploaded on: https://zenodo.org/record/4322342#.ZBtsb3bMK5d. Csv file is also included here.
