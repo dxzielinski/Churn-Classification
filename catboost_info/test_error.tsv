@@ -1,2 +1,2 @@
-iter	Accuracy	Logloss
-0	0.8394736842	0.668538473
+iter	Accuracy	CrossEntropy
+0	0.8394736842	0.6660979539
